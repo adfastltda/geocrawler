@@ -1,3 +1,6 @@
+# AVISO
+- vps gringa esta dando problemas, breve corrijo 
+
 # GeoCrawler 
 
 GeoCrawler é um scraper do Google Maps, permitindo extrair informações de estabelecimentos como nome, categoria, endereço, avaliações, website e telefone.  
