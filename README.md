@@ -1,4 +1,4 @@
-# GeoCrawler
+# GeoCrawler 
 
 GeoCrawler é um scraper de Google Maps, permitindo extrair informações de estabelecimentos como nome, categoria, endereço, avaliações, website e telefone.  
 
